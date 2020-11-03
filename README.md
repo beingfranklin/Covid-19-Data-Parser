@@ -1,4 +1,4 @@
-# Covid Tracker
+# Covid Data Parser
 
 ## Aim
 
